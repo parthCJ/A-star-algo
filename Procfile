@@ -1,1 +1,1 @@
-worker: python ISS_NOTIFIER.py
+worker: python main.py
